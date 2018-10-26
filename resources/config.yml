@@ -1,8 +1,7 @@
 ---
 #-----------------------------#
 
-         คุณสามารถใช้
-         You can use
+# PLUGIN WILL NOT WORK WITHOUT THE CORE!
 
 #{name} - ชื่อในเกม (name in game)
 #{group} - ยศ (group) *You must have plugin PurePerms*
